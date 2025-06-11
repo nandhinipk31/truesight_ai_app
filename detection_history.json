@@ -1,0 +1,517 @@
+[
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "nandhini professional photo.jpg",
+        "result": "Real",
+        "confidence": 89.95598554611206
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "Fake",
+        "confidence": 76.5
+    },
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "Fake",
+        "confidence": 76.5
+    },
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample6.jpg",
+        "result": "Real",
+        "confidence": 99.99994039535522
+    },
+    {
+        "filename": "sample8.jpg",
+        "result": "Real",
+        "confidence": 99.29050803184509
+    },
+    {
+        "filename": "sample3.jpg",
+        "result": "Real",
+        "confidence": 95.57310342788696
+    },
+    {
+        "filename": "sample3.jpg",
+        "result": "Real",
+        "confidence": 95.57310342788696
+    },
+    {
+        "filename": "sample1.png",
+        "result": "Fake",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "WhatsApp Image 2025-04-24 at 19.30.54_35c14efd.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 74.672532081604
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample6.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99994039535522
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "Fake",
+        "confidence": 76.5
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample5.jpg",
+        "result": "Authentic Content",
+        "confidence": 98.9446759223938
+    },
+    {
+        "filename": "sample4.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 50.50519108772278
+    },
+    {
+        "filename": "nandhini professional photo.jpg",
+        "result": "Authentic Content",
+        "confidence": 89.95598554611206
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample5.jpg",
+        "result": "Authentic Content",
+        "confidence": 98.9446759223938
+    },
+    {
+        "filename": "sample3.jpg",
+        "result": "Authentic Content",
+        "confidence": 95.57310342788696
+    },
+    {
+        "filename": "nandhini professional photo.jpg",
+        "result": "Authentic Content",
+        "confidence": 89.95598554611206
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "flowerimages.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "flowerimages.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample4.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 50.50519108772278
+    },
+    {
+        "filename": "nandhini professional photo.jpg",
+        "result": "Authentic Content",
+        "confidence": 89.95598554611206
+    },
+    {
+        "filename": "sample1.png",
+        "result": "AI-Generated Content",
+        "confidence": 99.96674060821533
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample3.jpg",
+        "result": "Authentic Content",
+        "confidence": 95.57310342788696
+    },
+    {
+        "filename": "sample6.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99994039535522
+    },
+    {
+        "filename": "flowerimages.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "1k1x6oDDEtXdQeKTAKQsSbQ.jpeg",
+        "result": "Authentic Content",
+        "confidence": 99.99699592590332
+    },
+    {
+        "filename": "1OEipycyFugvcLmEh2_zINQ.png",
+        "result": "Authentic Content",
+        "confidence": 99.99996423721313
+    },
+    {
+        "filename": "3c958e87e755ddec3003722eb91e787a.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.91236329078674
+    },
+    {
+        "filename": "59e0ba50419705a2c4b22681fb.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 99.65161085128784
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "kurti.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 99.38361048698425
+    },
+    {
+        "filename": "videoplayback.mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample5.jpg",
+        "result": "Authentic Content",
+        "confidence": 98.9446759223938
+    },
+    {
+        "filename": "kurti 2.jpg",
+        "result": "Authentic Content",
+        "confidence": 85.99920868873596
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample6.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99994039535522
+    },
+    {
+        "filename": "image.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99762773513794
+    },
+    {
+        "filename": "image 2.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.7171700000763
+    },
+    {
+        "filename": "flowerimages.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "1sTXgMwDUW0pk-1yK4iHYFw.png",
+        "result": "AI-Generated Content",
+        "confidence": 53.20393443107605
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample6.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99994039535522
+    },
+    {
+        "filename": "sample8.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.29050803184509
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample7.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 99.7241735458374
+    },
+    {
+        "filename": "sample5.jpg",
+        "result": "Authentic Content",
+        "confidence": 98.9446759223938
+    },
+    {
+        "filename": "flowerimages.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "videoplayback (1).mp4",
+        "result": "AI-Generated Content",
+        "confidence": 54.98340129852295
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    },
+    {
+        "filename": "sample4.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 50.50519108772278
+    },
+    {
+        "filename": "sample4.jpg",
+        "result": "AI-Generated Content",
+        "confidence": 50.50519108772278
+    },
+    {
+        "filename": "sample2.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.78705644607544
+    },
+    {
+        "filename": "sample1.jpg",
+        "result": "Authentic Content",
+        "confidence": 99.99997615814209
+    }
+]
