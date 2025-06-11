@@ -43,3 +43,51 @@ TrueSight_AI/
 ├── README.md
 ├── requirements.txt
 └── Home.py
+
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/truesight-ai.git
+cd truesight-ai
+pip install -r requirements.txt
+streamlit run main.py
+[11-06-2025 08:37 PM] Nandyyy: # 🔍 TrueSight AI - Deepfake Detection Web App
+
+*TrueSight AI* is a powerful and user-friendly web application built to detect *AI-generated* or *manipulated images and videos* using deep learning. It combines the accuracy of ResNet18 with intuitive visual explanations to help users validate digital content authenticity.
+
+---
+
+## 🚀 Features
+
+- ✅ Upload image or video to detect authenticity
+- ✅ Confidence Gauge (0–100%) for result certainty
+- ✅ Grad-CAM Heatmap highlighting decision regions
+- ✅ Detection History Log
+- ✅ Downloadable PDF report with visuals
+- ✅ Clean and responsive Streamlit UI
+
+---
+
+## 🧠 Model Overview
+
+- *Model Used*: ResNet18 (pretrained on ImageNet, fine-tuned for binary classification)
+- *Trained On*: Real vs. AI-generated images
+- *Prediction*: Classifies input as Authentic Content or AI-Generated Content
+
+---
+
+## 🛠 Tech Stack
+
+| Layer       | Technology                  |
+|-------------|-----------------------------|
+| Frontend    | Streamlit, HTML, CSS        |
+| Backend     | Python (Torch, OpenCV)      |
+| ML Model    | ResNet18 (PyTorch)          |
+| Visualization | Plotly, Grad-CAM (CV2)    |
+| Logging     | JSON-based history storage  |
+| Output      | PDF Report (via FPDF)       |
+
+---
+
+## 📂 Folder Structure
